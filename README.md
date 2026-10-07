@@ -25,10 +25,8 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="<img width="498" height="498" alt="e97cbbd9e9db1f44e679c4778b4f4bb7" src="https://github.com/user-attachments/assets/208e413f-c1d8-4c08-bd67-f17091c9aa74" />
-" width="200" alt="Cat coding">
-  <img src="<img width="736" height="736" alt="efe80aea0344a2c600e6e711bd6fb285" src="https://github.com/user-attachments/assets/cb53bc5c-102b-4b55-afde-f2e02215adc1" />
-" width="200" alt="Hacker cat">
+  <img src="https://media.tenor.com/ZZZmJ0xJvJMAAAAi/cat-computer.gif" width="200" alt="Cat coding">
+  <img src="https://media.tenor.com/2s9QKwXq6PAAAAAi/cat-hacker.gif" width="200" alt="Hacker cat">
 </div>
 
 ---
