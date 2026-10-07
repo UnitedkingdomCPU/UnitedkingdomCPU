@@ -19,19 +19,12 @@
 продакшн-решения. Верю, что лучший способ учиться — это делать.
 
 <div align="center">
-  <img src="./catnuhich.gif" width="300" alt="Милый котик выглядывает">
+  <img src="https://media.tenor.com/On7kvXhzml4AAAAj/loading-cat.gif" width="300" alt="Милый котик выглядывает">
   <br>
   <sub>Это я, когда проверяю логи сервера в 3 часа ночи 🐱</sub>
 </div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://media.tenor.com/ZZZmJ0xJvJMAAAAi/cat-computer.gif" width="200" alt="Cat coding">
-  <img src="https://media.tenor.com/2s9QKwXq6PAAAAAi/cat-hacker.gif" width="200" alt="Hacker cat">
-</div>
-
 ---
 
-## 🛠️ Мой технический стек
 
 ### 🖥️ Операционные системы
 | Linux | Windows |
@@ -100,34 +93,18 @@
 📅 2024 — 2028 (ожидаемый выпуск)
 
 ---
-
-
-## 📊 Моя GitHub статистика
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UnitedkingdomCPU&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnitedkingdomCPU&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UnitedkingdomCPU&theme=radical)
-
-</div>
-
----
-
 ##  Котик дня
 
 <div align="center">
 
 > *"В мире системного администрирования, как и в мире котов, главное — всегда иметь запасной план (и девять жизней)"* 😸
 
-<img src="https://media.tenor.com/b7p5xJZz8-AAAAAC/cat-computer.gif" width="300" alt="Cat with computer">
+<img src="" width="300" alt="Cat with computer">
 
 **Мой рабочий процесс:**
 1. 🐱 Открыл тикет
 2.  Погуглил проблему
-3. 🐈‍⬛ Перезагрузил сервер
+3. 🐈‍⬛ Перезагрузил компуктер
 4. 😸 Работает! (не трогай!)
 
 </div>
@@ -146,23 +123,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ТВОЙ_НИК)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твоя_почта@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ТВОЙ_НИК)
 [![HH.ru](https://img.shields.io/badge/HH.ru-0078D4?style=for-the-badge)](https://chelyabinsk.hh.ru/resume/1ce7f928ff0fe3d9890039ed1f353670624969)
 
 </div>
 
----
-
-<div align="center">
-
-###  Пока ты читал это, котик уже настроил VLAN
-
-<img src="https://media.tenor.com/2s9QKwXq6PAAAAAi/cat-hacker.gif" width="150" alt="Hacker cat">
-
-**Спасибо, что заглянул!** ⭐ Не забудь поставить звёздочку репозиториям, если они показались полезными!
-
-*Made with ❤️ and ☕ by [Твоё Имя]*
-
-</div>
