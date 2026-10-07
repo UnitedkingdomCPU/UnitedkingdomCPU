@@ -25,34 +25,6 @@
 </div>
 ---
 
-
-### 🖥️ Операционные системы
-| Linux | Windows |
-|-------|---------|
-| ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) | ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
-| ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white) | ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) |
-| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Windows 10/11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
-
-### 🌐 Сети и оборудование
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-0078D4?style=for-the-badge)
-![OSPF](https://img.shields.io/badge/OSPF-0078D4?style=for-the-badge)
-
-### 🖧 Серверные технологии
-![1C](https://img.shields.io/badge/1C_Предприятие-FFCC00?style=for-the-badge)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-0078D4?style=for-the-badge)
-![DHCP](https://img.shields.io/badge/DHCP-0078D4?style=for-the-badge)
-
-###  Телефония и IoT
-![VoIP](https://img.shields.io/badge/VoIP-0078D4?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-0078D4?style=for-the-badge)
-![Wi-Fi](https://img.shields.io/badge/WiFi-0078D4?style=for-the-badge)
-
----
-
 ## 📂 Мои проекты
 
 ### 🏢 [Корпоративная сеть TechCorp — Cisco Packet Tracer](https://github.com/UnitedkingdomCPU/Cisco-Packet-Tracer)
