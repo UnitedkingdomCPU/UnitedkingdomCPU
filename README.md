@@ -19,7 +19,12 @@
 продакшн-решения. Верю, что лучший способ учиться — это делать.
 
 <div align="center">
-  <img src="https://media.tenor.com/On7kvXhzml4AAAAj/loading-cat.gif" width="200" alt="Loading cat">
+  <img src="cute-cat.png" width="300" alt="Милый котик выглядывает">
+  <br>
+  <sub>Это я, когда проверяю логи сервера в 3 часа ночи 🐱</sub>
+</div>
+
+<div align="center" style="margin-top: 20px;">
   <img src="https://media.tenor.com/ZZZmJ0xJvJMAAAAi/cat-computer.gif" width="200" alt="Cat coding">
   <img src="https://media.tenor.com/2s9QKwXq6PAAAAAi/cat-hacker.gif" width="200" alt="Hacker cat">
 </div>
