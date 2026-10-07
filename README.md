@@ -1,4 +1,4 @@
-# Привет! 👋 Меня зовут [Александр]
+# Привет! 👋 Меня зовут Александр
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 ## 📂 Мои проекты
 
-### 🏢 [Корпоративная сеть TechCorp — Cisco Packet Tracer](https://github.com/UnitedkingdomCPU/TechCorp_Network)
+### 🏢 [Корпоративная сеть TechCorp — Cisco Packet Tracer](https://github.com/UnitedkingdomCPU/Cisco-Packet-Tracer)
 **Масштабный проект корпоративной инфраструктуры на 200+ пользователей**
 
 <div align="center">
